@@ -9,5 +9,3 @@ aplikasi pembayaran klinik persalinan mawar.
 ```lisp
 g++ /{your os}/main.cpp
 ```
-
-ss
