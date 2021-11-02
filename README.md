@@ -7,6 +7,7 @@ aplikasi pembayaran klinik persalinan mawar.
 ## prerequisite
 
 - C standart library and headers
+- working keyboard and display \*lmao
 
 #### download
 
