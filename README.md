@@ -8,19 +8,19 @@ aplikasi pembayaran klinik persalinan mawar.
 
 - C standart library and headers
 
-## how to download
+### download
 
 ```lisp
 git clone git@github.com:savazeb/aplikasi-pembayaran-kasir.git
 ```
 
-## how to compile
+### compile
 
 ```lisp
 g++ /{your os}/main.cpp -o app.exe
 ```
 
-## how to run
+### run
 
 ```lisp
 ./app.exe
