@@ -1,0 +1,17 @@
+fabian phoenix
+a
+12
+jasa dokter
+
+fabian phoenix
+b
+12
+jasa bidan
+
+fabian phoenix
+c
+
+fabian phoenix
+b
+12
+jasa Bida
