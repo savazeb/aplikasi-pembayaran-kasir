@@ -94,12 +94,11 @@ void checkout::printData()
 
     cout << "biaya persalinan\t: " << setCommas(biayaPersalinan) << endl;
     cout << " " << endl;
-    cout << "                          --------------------------- " << endl;
+    cout << "                     ------------------------------- " << endl;
     cout << " " << endl;
-    cout << "                     BIAYA\t: " << setCommas(totalBiaya) << endl;
-
-    cout << "                     TUNAI\t: " << setCommas(tunai) << endl;
-    cout << "                     KEMBALIAN\t: " << setCommas(kembalian) << endl;
+    cout << "                      BIAYA\t: " << setCommas(totalBiaya) << endl;
+    cout << "                      TUNAI\t: " << setCommas(tunai) << endl;
+    cout << "                      KEMBALIAN\t: " << setCommas(kembalian) << endl;
     if (checkHadiah())
     {
         cout << " " << endl;
