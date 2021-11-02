@@ -201,7 +201,7 @@ checkout inputPatientData(checkout co_)
         cout << "lama inap\t: " << (unsigned int)(co_.lamaInap) << endl;
         cout << "penanganan\t: " << co_.penanganan << endl;
         cout << "-------------------------------------------------------" << endl;
-        cout << "z:sebelum   c:setelah                     x : kembali  " << endl;
+        cout << "z:sebelum   c:setelah               x:simpan & kembali " << endl;
         cout << "-------------------------------------------------------" << endl;
 
         cout << (unsigned int)toggle
@@ -211,7 +211,7 @@ checkout inputPatientData(checkout co_)
         {
             cout << inputType[toggle][row];
         }
-
+        cout << "\n";
         //input data
 
         cin.clear();
